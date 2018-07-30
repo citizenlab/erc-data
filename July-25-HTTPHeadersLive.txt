@@ -1,0 +1,209 @@
+---------------------
+http://www.gaycurl.ca/
+Host: www.gaycurl.ca
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2egaycurl%2eca%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://toronto.gaycurl.ca/
+Host: toronto.gaycurl.ca
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2ftoronto%2egaycurl%2eca%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.cglcc.ca/
+Host: www.cglcc.ca
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2ecglcc%2eca%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.gay.com/
+Host: www.gay.com
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2egay%2ecom%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.gaycalgary.com/
+Host: www.gaycalgary.com
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2egaycalgary%2ecom%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.gayegypt.com/
+Host: www.gayegypt.com
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2egayegypt%2ecom%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.gayhealth.com/
+Host: www.gayhealth.com
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2egayhealth%2ecom%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.gayscape.com/
+Host: www.gayscape.com
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2egayscape%2ecom%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.glaad.org/
+Host: www.glaad.org
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2eglaad%2eorg%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.glil.org/
+Host: www.glil.org
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2eglil%2eorg%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.globalgayz.com/
+Host: www.globalgayz.com
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2eglobalgayz%2ecom%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.gmhc.org/
+Host: www.gmhc.org
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2egmhc%2eorg%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
+http://www.hrc.org/
+Host: www.hrc.org
+User-Agent: [USER AGENT REDACTED]
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET: HTTP/1.1 200 OK
+Content-Length: 0
+Location: http://lighthouse.du.ae?dpid=1&dpruleid=3&cat=41&dplanguage=-&url=http%3a%2f%2fwww%2ehrc%2eorg%2f
+Pragma: no-cache
+Cache-Control: no-cache
+---------------------
