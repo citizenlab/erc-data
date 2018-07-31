@@ -1,6 +1,6 @@
 # ERC-data
 
-Supporting data for the Citizen Lab submission to the Equal Right Coalition global conference.
+Supporting data for the Citizen Lab submission to the Equal Rights Coalition Global Conference on LGBTI Human Rights and Inclusive Development.
 
 Contains four comma seperated value files. Summary-URL files contains only top level information 
 aggregated per URL while all-data file contains individual blocks and the data source for each one.
